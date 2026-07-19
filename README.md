@@ -4,7 +4,7 @@ my web site [rippsec.com](https://rippsec.com)
 
 [![Hackthebox](https://www.hackthebox.eu/badge/image/1521317)](https://www.hackthebox.eu/home/users/profile/1521317)
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/rippsec">
     <img src="https://img.shields.io/badge/LinkedIn-rippsec-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
