@@ -2,10 +2,8 @@
 
 my web site [rippsec.com](https://rippsec.com)
 
-[![Hackthebox](https://www.hackthebox.eu/badge/image/1521317)](https://www.hackthebox.eu/home/users/profile/1521317)
-
 <p align="left">
-  <a href="https://linkedin.com/in/rippsec">
+  <a href="https://www.linkedin.com/in/rippsec">
     <img src="https://img.shields.io/badge/LinkedIn-rippsec-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <!--
@@ -20,3 +18,13 @@ my web site [rippsec.com](https://rippsec.com)
     <img src="https://img.shields.io/badge/HackTheBox-rippsec-9FEF00?style=for-the-badge&logo=Hack%20The%20Box&logoColor=black"/>
   </a>
 </p>
+
+## Official channels
+
+The only official places for **rippsec** are:
+
+- GitHub: [github.com/rippsec](https://github.com/rippsec)
+- LinkedIn: [linkedin.com/in/rippsec](https://www.linkedin.com/in/rippsec)
+- Hack The Box: [profile.hackthebox.com/profile/019c8c0d-954d-73ef-a0ea-f6291b8da8a4](https://profile.hackthebox.com/profile/019c8c0d-954d-73ef-a0ea-f6291b8da8a4)
+
+Any other account, site or message that claims to be me or to speak for my projects (for example [bspwn](https://github.com/rippsec/bspwn)), including accounts with similar names, is **not** official.
